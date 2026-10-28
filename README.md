@@ -47,6 +47,17 @@ This PCB was designed in KiCad 10.0.
   <em>Top side</em>
 </p>
 
+
+### PCB Quote
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4b2f5c22-1baa-4b08-9965-82cc51e34eee" alt="PCB Quote" width="800" >
+  <br>
+  <em>PCB Quote</em>
+</p>
+
+
+
 > **Note:** The top layer of the PCB where most of the components are placed will be on the bottom side when we screw the PCB and case together.
 
 ## CAD & Case Design
@@ -94,6 +105,22 @@ The mechanical part / CAD is designed in 4 parts so that it can be printed easil
   <img src="https://github.com/user-attachments/assets/95e70f4a-6555-4934-9339-2ad470a8db87" alt="Assembled view 2" width="480">
 </p>
 
+
+## Bill of Materials
+
+| Part Name | Quantity | Link | Info | Price (USD) |
+|-----------|:--------:|------|------|------------:|
+| JLCPCB PCBA Manufacturing & Shipping | 2 | [Link](https://jlcpcb.com/) | PCB | $44.53 |
+| WS2812B LED | 1 | [Link](https://quartzcomponents.com/products/ws2812b-smd3535-mini-4-pin-rgb-smd-led?variant=45039228223722) | WS2812B | $0.3 |
+| Tactile Switches 12mm | 4 | [Link](https://robu.in/product/1-month-warranty-762/) | Switches | $0.15 |
+| DC Jack | 1 | [Link](https://robu.in/product/dc-jack-005a/) | DC JACK | $0.15 |
+| Screw Terminal | 1 | [Link](https://robu.in/product/xy128vc-5-0-xinya-2-pin-screw-terminal-blockgreen/) | Screw Terminal | $0.2 |
+| 1X05 Male Connector | 2 | [Link](https://sharvielectronics.com/product/5x1-5pin-male-right-angle-berg-header-connector-6mm-2-54mm-pitch/) | 5 pin male | $0.2 |
+| ESP-12E ESP8266 | 1 | [Link](https://robu.in/product/esp-12e/) | MCU | $3.56 |
+| SPST SMD Tactile Switches | 4 | [Link](https://robu.in/product/1-month-warranty-470/) | SPST SMD Tactile Switches | $0.13 |
+| Axial Cooling Fan | 1 | [Link](https://www.amazon.in/FEDGER-Performance-Electronics-Industrial-Equipment/dp/B0H7C37SRT) | Axial Cooling Fan | $5.78 |
+| Air Carbon Filter | 1 | [Link](https://www.amazon.in/Carbon-Filter-Sqair-Air-Purifier/dp/B082TZCQNN?source=ps-sl-shoppingads-lpcontext&psc=1&smid=AEQ5S1BXH0VBO) | Air Carbon Filter | $12 |
+| **TOTAL** | | | | **~ $65** |
 
 ## Status
 
