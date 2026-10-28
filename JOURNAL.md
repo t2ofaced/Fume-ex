@@ -1,4 +1,11 @@
-# October 05, 2026: 2H 47 Min
+---
+title: "Fume-ex"
+author: "t2ofaced"
+description: "A fume extractor that can be controlled from phone"
+created_at: "2026-10-05"
+---
+
+# October 05: Planning and schematic
 
 I am making a smart fume extractor it is smart because i can control it with my phone is that really useful? Not really but atleast it is smart.
 
@@ -26,8 +33,9 @@ Here is our brain the ESP 12E
 
 And this is the complete schematic it is unorganised right now, hehe i will clean it up later.
 
+**Total time spent: 2 hours 47 minutes**
 
-# October 18, 2026: 6H 57 Min
+# October 18: PCB layout and starting the case
 
 I added footprints for all the components, i mostlyy used 0805 for the capacitors and resistors as they are easier to solder by hand and i have zer0 soldering experince
 
@@ -75,8 +83,9 @@ After that i uploaded the 3D file of my PCB to onshape and started working on th
 
 The case is not finished yet i will be working on it next session
 
+**Total time spent: 6 hours 57 minutes**
 
-# October 27, 2026: 4H 8 Min
+# October 27: Finished the case and uploaded to GitHub
 
 <img width="701" height="683" alt="image" src="https://github.com/user-attachments/assets/f1254b1b-52da-46e8-bf2f-81775882e106" />
 
@@ -92,4 +101,5 @@ after that i uploaded all the files to the gitHub
 
 ![image](https://twisted.hackclub-assets.com/6eead736-8d7c-4b60-84b8-fff2ae933d03-96227/image.png)
 
+**Total time spent: 4 hours 8 minutes**
 
