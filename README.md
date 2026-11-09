@@ -13,6 +13,7 @@ Fume-ex has 2 buttons on the board, UP and DOWN button as the name says, the UP 
 | 3     | ~75% | Orange    |
 | 4     | 100% | Red       |
 
+
 ## Schematics & Circuitry
 
 This PCB was designed in KiCad 10.0.
@@ -65,6 +66,9 @@ This PCB was designed in KiCad 10.0.
 The mechanical part / CAD is designed in 4 parts so that it can be printed easily.
 
 **Onshape:** [Open CAD model](https://cad.onshape.com/documents/52f7c11b6668c09d0c33dd75/w/9eb0015b3a1bfa4b51811258/e/8c4dfcc336f707a1c31151c4)
+**Onshape:** [Assembly Link](https://cad.onshape.com/documents/52f7c11b6668c09d0c33dd75/w/9eb0015b3a1bfa4b51811258/e/7d99a588d10e8d80c5f6bc5e)
+
+
 
 ### Main Frame
 
@@ -104,6 +108,59 @@ The mechanical part / CAD is designed in 4 parts so that it can be printed easil
   <img src="https://github.com/user-attachments/assets/c63709e2-b470-407a-8788-32b7eba2731c" alt="Assembled view 1" width="380">
   <img src="https://github.com/user-attachments/assets/95e70f4a-6555-4934-9339-2ad470a8db87" alt="Assembled view 2" width="480">
 </p>
+
+
+## Assembly Instructions
+
+Assembly of this device is easy peasy
+
+### Step 1
+
+just Screw Fan and Main body of fume extractor with M3 Screws
+
+<img width="1107" height="865" alt="Screenshot 2026-11-09 094551" src="https://github.com/user-attachments/assets/35dbc54e-a9a3-448b-a391-3efdab67d02f" />
+
+this should look like this, Blue marks are the slot where we have to screw M3
+
+<img width="935" height="757" alt="Screenshot 2026-11-09 094628" src="https://github.com/user-attachments/assets/7a6319dc-7dba-408a-a3d7-dc6d18a195b4" />
+
+<img width="947" height="882" alt="Screenshot 2026-11-09 094622" src="https://github.com/user-attachments/assets/77b31153-31ed-4ce6-a44a-1ad2213d7bf4" />
+
+### Step 2
+
+Screw PCB and Top Plate with M3 Screws
+
+place PCB like this
+
+<img width="1040" height="532" alt="Screenshot 2026-11-09 095517" src="https://github.com/user-attachments/assets/c3d2e344-e74a-47cf-8b36-e26174b1ab5b" />
+
+then add top plate on the top of the pcb like this
+
+<img width="910" height="815" alt="Screenshot 2026-11-09 095526" src="https://github.com/user-attachments/assets/fc5c49c0-0aa7-44be-b95e-c3bf8a5c2a2d" />
+
+<img width="1130" height="753" alt="Screenshot 2026-11-09 094749" src="https://github.com/user-attachments/assets/c45778e9-69d9-4f8b-8dd4-e0d2bc86cb4a" />
+
+And just screw them
+
+Now this should look like this
+
+<img width="1083" height="870" alt="Screenshot 2026-11-09 094815" src="https://github.com/user-attachments/assets/f5fae823-bbee-4ff7-b754-9c7a5c2fe5e8" />
+
+### Step 3
+
+Screw Back Panel with main case with m3 screws
+
+<img width="1115" height="885" alt="Screenshot 2026-11-09 094831" src="https://github.com/user-attachments/assets/4a749b4c-0bbd-416d-9362-93b07fa1d7c2" />
+
+### Step 4
+
+Screw Front Panel with case with M3 screw
+
+<img width="1010" height="880" alt="Screenshot 2026-11-09 094850" src="https://github.com/user-attachments/assets/9b300ee5-96dd-4b97-8d83-8eb788563d3f" />
+
+DONEEEEEEEEEEE
+
+
 
 
 ## Bill of Materials
