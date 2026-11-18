@@ -165,6 +165,12 @@ DONEEEEEEEEEEE
 
 ## Bill of Materials
 
+
+<img width="1572" height="782" alt="image" src="https://github.com/user-attachments/assets/cabe510c-2639-4b43-ae4d-61778d038390" />
+
+
+
+
 | Part Name | Quantity | Link | Info | Price (USD) |
 |-----------|:--------:|------|------|------------:|
 | JLCPCB PCBA Manufacturing & Shipping | 2 | [Link](https://jlcpcb.com/) | PCB | $44.53 |
